@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809163784368",
+    "project_id": "safe-driving-bb0cf",
+    "storage_bucket": "safe-driving-bb0cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809163784368:android:59bc5160138064592cbb75",
+        "android_client_info": {
+          "package_name": "com.example.safe_driving"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809163784368-6q12fk8viodtei159d8lnfll78orbirs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoINuPw84zTFTddcCsAT-miP5Bs9ASLsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809163784368-6q12fk8viodtei159d8lnfll78orbirs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

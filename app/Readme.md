@@ -1,0 +1,1 @@
+This application is a flutter based application, which takes input of IMU, Audio, Proximity, and Diplay sensor from the user. Thereby, it generates and alert in three different ways: (i) Audio Alert, (ii) Short Message Alert, and (iii) Long Message Alert.
